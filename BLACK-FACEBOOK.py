@@ -1,4 +1,3 @@
-
 import sys
 import mechanize
 import cookielib
